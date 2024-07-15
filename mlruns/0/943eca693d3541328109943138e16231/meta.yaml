@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/943eca693d3541328109943138e16231/artifacts
+end_time: 1721061536651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 943eca693d3541328109943138e16231
+run_name: handsome-moth-913
+run_uuid: 943eca693d3541328109943138e16231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721061530241
+status: 4
+tags: []
+user_id: sloya

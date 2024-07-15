@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/37e67597ee35476886761face4068184/artifacts
+end_time: 1721060417168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37e67597ee35476886761face4068184
+run_name: tasteful-skink-171
+run_uuid: 37e67597ee35476886761face4068184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721060411216
+status: 4
+tags: []
+user_id: sloya

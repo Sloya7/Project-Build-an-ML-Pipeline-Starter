@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/feaec3f5f83f4e3ab8a26aa3f3df5c25/artifacts
+end_time: 1721061624435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: feaec3f5f83f4e3ab8a26aa3f3df5c25
+run_name: awesome-yak-489
+run_uuid: feaec3f5f83f4e3ab8a26aa3f3df5c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721061617836
+status: 4
+tags: []
+user_id: sloya

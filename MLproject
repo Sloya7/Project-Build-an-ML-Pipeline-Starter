@@ -14,5 +14,10 @@ entry_points:
         description: Other configuration parameters to override
         type: str
         default: ''
+    #command: "python main.py main.steps=\\'{steps}\\' $(echo {hydra_options})"
 
-    command: "python main.py main.steps=\\'{steps}\\' $(echo {hydra_options})"
+    #After revewing the website docs
+    #command: "python main.py main.steps=\\{steps}\\ $(echo {hydra_options})"
+    #command: "python main.py main.steps={steps} $(echo {hydra_options})"
+    command: "python main.py main.steps='{steps}' $(echo{hydra_options})"
+    

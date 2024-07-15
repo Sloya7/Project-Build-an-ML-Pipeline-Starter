@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e45ea42f291943a8b0d90ed7994d81c5/artifacts
+end_time: 1721060588695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e45ea42f291943a8b0d90ed7994d81c5
+run_name: luminous-finch-385
+run_uuid: e45ea42f291943a8b0d90ed7994d81c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721060582490
+status: 4
+tags: []
+user_id: sloya

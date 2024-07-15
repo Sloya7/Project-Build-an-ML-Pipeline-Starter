@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1b737b9026404544b8f75cef3c9e0d2f/artifacts
+end_time: 1720982662152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b737b9026404544b8f75cef3c9e0d2f
+run_name: serious-robin-300
+run_uuid: 1b737b9026404544b8f75cef3c9e0d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720982655793
+status: 4
+tags: []
+user_id: sloya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57bfab4176374bf4a490064621b0b8c3/artifacts
+end_time: 1720982945146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57bfab4176374bf4a490064621b0b8c3
+run_name: suave-fly-481
+run_uuid: 57bfab4176374bf4a490064621b0b8c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720982938707
+status: 4
+tags: []
+user_id: sloya

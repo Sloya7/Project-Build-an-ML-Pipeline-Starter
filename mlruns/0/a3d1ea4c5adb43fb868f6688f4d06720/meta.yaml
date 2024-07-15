@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a3d1ea4c5adb43fb868f6688f4d06720/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3d1ea4c5adb43fb868f6688f4d06720
+run_name: caring-lark-744
+run_uuid: a3d1ea4c5adb43fb868f6688f4d06720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720981731355
+status: 1
+tags: []
+user_id: sloya

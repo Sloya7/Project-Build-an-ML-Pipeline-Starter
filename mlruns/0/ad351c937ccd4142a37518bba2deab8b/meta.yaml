@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ad351c937ccd4142a37518bba2deab8b/artifacts
+end_time: 1720982338677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad351c937ccd4142a37518bba2deab8b
+run_name: luxuriant-hawk-135
+run_uuid: ad351c937ccd4142a37518bba2deab8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720982191988
+status: 4
+tags: []
+user_id: sloya

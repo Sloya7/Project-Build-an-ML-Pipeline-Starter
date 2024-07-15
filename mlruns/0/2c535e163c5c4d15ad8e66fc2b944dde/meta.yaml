@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2c535e163c5c4d15ad8e66fc2b944dde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c535e163c5c4d15ad8e66fc2b944dde
+run_name: orderly-dolphin-755
+run_uuid: 2c535e163c5c4d15ad8e66fc2b944dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720981984201
+status: 1
+tags: []
+user_id: sloya

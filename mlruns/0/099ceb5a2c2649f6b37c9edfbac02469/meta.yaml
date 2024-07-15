@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/099ceb5a2c2649f6b37c9edfbac02469/artifacts
+end_time: 1720982877700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 099ceb5a2c2649f6b37c9edfbac02469
+run_name: luxuriant-panda-201
+run_uuid: 099ceb5a2c2649f6b37c9edfbac02469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720982871365
+status: 4
+tags: []
+user_id: sloya

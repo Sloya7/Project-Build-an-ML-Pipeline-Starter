@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/75c5d982c3ed45ee9d9f28c2e3783365/artifacts
+end_time: 1721060258983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c5d982c3ed45ee9d9f28c2e3783365
+run_name: classy-bee-750
+run_uuid: 75c5d982c3ed45ee9d9f28c2e3783365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721060252667
+status: 4
+tags: []
+user_id: sloya

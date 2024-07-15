@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/06a6dbd73e6244d0b2a2a8077113fd81/artifacts
+end_time: 1721060168712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06a6dbd73e6244d0b2a2a8077113fd81
+run_name: unleashed-ant-632
+run_uuid: 06a6dbd73e6244d0b2a2a8077113fd81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721060162304
+status: 4
+tags: []
+user_id: sloya

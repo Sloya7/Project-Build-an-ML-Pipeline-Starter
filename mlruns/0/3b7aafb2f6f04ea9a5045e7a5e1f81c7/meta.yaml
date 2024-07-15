@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3b7aafb2f6f04ea9a5045e7a5e1f81c7/artifacts
+end_time: 1720982383535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b7aafb2f6f04ea9a5045e7a5e1f81c7
+run_name: dashing-trout-307
+run_uuid: 3b7aafb2f6f04ea9a5045e7a5e1f81c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720982377162
+status: 4
+tags: []
+user_id: sloya

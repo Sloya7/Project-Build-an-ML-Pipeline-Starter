@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc9b387431f1440eaa9ea0afafcccfaa/artifacts
+end_time: 1721060365141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc9b387431f1440eaa9ea0afafcccfaa
+run_name: popular-owl-447
+run_uuid: cc9b387431f1440eaa9ea0afafcccfaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721060359036
+status: 4
+tags: []
+user_id: sloya

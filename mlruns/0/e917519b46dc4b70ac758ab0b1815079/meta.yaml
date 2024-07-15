@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e917519b46dc4b70ac758ab0b1815079/artifacts
+end_time: 1721061434485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e917519b46dc4b70ac758ab0b1815079
+run_name: capricious-ant-232
+run_uuid: e917519b46dc4b70ac758ab0b1815079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721061428400
+status: 4
+tags: []
+user_id: sloya

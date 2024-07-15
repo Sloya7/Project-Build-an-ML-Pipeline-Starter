@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/485f233ab3dc4da7b3ceb4c46cf27cd3/artifacts
+end_time: 1721061806649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 485f233ab3dc4da7b3ceb4c46cf27cd3
+run_name: stylish-snake-603
+run_uuid: 485f233ab3dc4da7b3ceb4c46cf27cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721061800121
+status: 4
+tags: []
+user_id: sloya

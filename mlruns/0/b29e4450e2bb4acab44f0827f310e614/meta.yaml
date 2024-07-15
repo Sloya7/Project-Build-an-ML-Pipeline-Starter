@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sloya/source/repos/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b29e4450e2bb4acab44f0827f310e614/artifacts
+end_time: 1721060230000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b29e4450e2bb4acab44f0827f310e614
+run_name: wistful-wolf-491
+run_uuid: b29e4450e2bb4acab44f0827f310e614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721060224050
+status: 4
+tags: []
+user_id: sloya
