@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sloya7/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4e87067ef75a4d4abc4331f493c6ff12/artifacts
+end_time: 1721331593824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e87067ef75a4d4abc4331f493c6ff12
+run_name: languid-shrimp-446
+run_uuid: 4e87067ef75a4d4abc4331f493c6ff12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721331572175
+status: 3
+tags: []
+user_id: sloya7

@@ -1,3 +1,12 @@
+
+Student GitHub repository address: https://github.com/Sloya7/Project-Build-an-ML-Pipeline-Starter/tree/ubuntu-branch
+  - Please note that the Ubuntu Branch is the functional one ready for assessment.
+
+Student W&B address: https://wandb.ai/sloya7-Student/nyc_airbnb/
+
+
+
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
