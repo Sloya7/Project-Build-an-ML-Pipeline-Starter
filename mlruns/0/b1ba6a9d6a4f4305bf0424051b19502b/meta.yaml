@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sloya7/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b1ba6a9d6a4f4305bf0424051b19502b/artifacts
+end_time: 1721331048591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1ba6a9d6a4f4305bf0424051b19502b
+run_name: delicate-deer-731
+run_uuid: b1ba6a9d6a4f4305bf0424051b19502b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721330979165
+status: 4
+tags: []
+user_id: sloya7

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sloya7/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a1360ae8ce394f27b892868faa8bf64b/artifacts
+end_time: 1721331009375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1360ae8ce394f27b892868faa8bf64b
+run_name: painted-loon-269
+run_uuid: a1360ae8ce394f27b892868faa8bf64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721330987048
+status: 3
+tags: []
+user_id: sloya7

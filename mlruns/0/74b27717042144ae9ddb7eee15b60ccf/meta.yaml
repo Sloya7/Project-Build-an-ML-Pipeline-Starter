@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sloya7/Project-Build-an-ML-Pipeline-Starter/mlruns/0/74b27717042144ae9ddb7eee15b60ccf/artifacts
+end_time: 1721331048289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74b27717042144ae9ddb7eee15b60ccf
+run_name: powerful-hawk-328
+run_uuid: 74b27717042144ae9ddb7eee15b60ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721331033679
+status: 4
+tags: []
+user_id: sloya7
